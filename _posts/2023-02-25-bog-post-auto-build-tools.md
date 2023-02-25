@@ -15,7 +15,7 @@ Build tools aid in improving performance, improving development productivity, or
 
 
 
- ## Build Tools can assist with:
+ ** Build Tools can assist with: **
 
 * combining JavaScript modules and CSS into bundled files for production
 * minifying files for improved performance
