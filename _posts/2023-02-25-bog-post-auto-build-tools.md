@@ -13,13 +13,19 @@ Build Automation Software reduce manual labor and validate the build consistency
 
 Build tools aid in improving performance, improving development productivity, or automating tasks.
 
+
+
  ### Build Tools can assist with:
 
 * combining JavaScript modules and CSS into bundled files for production
 * minifying files for improved performance
 * running unit tests with one command
 * automatically previewing changes to your application
+
+
 --
+
+
 ### List Of The Top Build Automation Tools
 
 Comparison of the Best Automated Build Deployment Software
