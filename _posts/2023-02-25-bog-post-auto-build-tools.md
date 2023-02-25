@@ -58,7 +58,7 @@ Several major IDEs provide interaction with Gradle builds, including Android Stu
 ### Insight
 Build Scan™ provides extensive information about a build that you can use to identify issues. You can use Build Scans to identify problems with a build’s performance and even share them for debugging help.
 
-## Terminology
+# Terminology
 It’s helpful to know the following terminology before you dive into the details of Gradle.
 
 ### Projects
