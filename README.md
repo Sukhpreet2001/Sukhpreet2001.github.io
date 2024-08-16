@@ -60,6 +60,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - **Advanced Designer**
 - **ML Practitioner**
 - **Core Designer**
+
 ### 3. DeepLearning.ai
 - **Deep Learning Specialization**
 - **Natural Language Processing Specialization**
@@ -69,4 +70,5 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - **Knowledge Graphs for RAG**
 - **LangChain Chat with Your Data**
 - **LangChain for LLM Application Development**
-- [Personal Project Diary](https://medium.com/@shawhin)
+
+ [Personal Project Diary](https://medium.com/@shawhin)
