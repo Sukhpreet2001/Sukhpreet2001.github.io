@@ -1,6 +1,6 @@
 # Data Science Enthusiast| Python Developer | Looking for Opputunities
 
-#### Technical Skills: Python, SQL, Dataiku, Docker, 
+#### Technical Skills: Python, SQL, Dataiku, Docker, LLM, RAG, Generative AI
 
 ## Education
 - B.Tech, Computer Science & Engineering | Guru Nanak Dev Engineering College, Ludhiana (_June 2024_)								       		
