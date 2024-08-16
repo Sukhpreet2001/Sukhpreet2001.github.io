@@ -18,9 +18,15 @@
 
 ## Projects
 ### Document Analysis Using LLMs
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+This project leverages **Large Language Models (LLMs)** to develop an academic research chatbot that enhances the efficiency of scholarly work by intelligently processing and analyzing research papers. The chatbot's key features include:
+
+- **Query-Based Response Generation**: Processes relevant research papers to answer user queries with concise, well-informed responses.
+- **Dynamic Database Access**: Fetches the latest research papers from a dynamic database, ensuring access to the most current academic content.
+- **Open-Source API Integration**: Utilizes an open-source API to retrieve fresh academic documents, keeping the information up to date.
+- **Cited Resources**: Along with each response, the chatbot provides helpful links to the research papers that were used to generate the answer, making it easier for users to delve deeper into the source material.
+
+This project exemplifies the practical application of natural language processing in academic research, making complex document analysis more accessible and efficient.
 
 ![Document Analysis Using LLms:Academic Research Chatbot](/assets/img/Project.png)
 
