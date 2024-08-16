@@ -5,7 +5,7 @@
 ## Education
 - B.Tech, Computer Science & Engineering | Guru Nanak Dev Engineering College, Ludhiana (_June 2024_)								       		
 - XII, Physics,Chemistry, Mathematics    | D.A.V. Public School,B.R.S. Nagar, Ludhiana (_March 2020_)	 			        		
-- X &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| D.A.V. Centenary Public School, Jagraon (_March 2018_)
+- X, General Subjects - Science, Mathematics, Hindi, Punjabi, English, Social Science| D.A.V. Centenary Public School, Jagraon (_March 2018_)
 
 ## Work Experience
 **Data Science Intern @ Sabudh Foundation (_Jan 2024 - Jun 2024_)**
