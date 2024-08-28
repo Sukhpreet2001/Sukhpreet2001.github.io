@@ -29,6 +29,16 @@ This project leverages **Large Language Models (LLMs)** to develop an academic r
 This project exemplifies the practical application of natural language processing in academic research, making complex document analysis more accessible and efficient.
 
 ![Document Analysis Using LLms:Academic Research Chatbot](/assets/img/Project.png)
+### Sync Lyric Music Player Web App
+
+This project showcases a **Sync Lyric Music Player Web App** that enhances your music experience by integrating real-time synced lyrics with song playback.
+
+- **Real-Time Lyric Synchronization**: Enjoy lyrics that sync perfectly with the music, allowing for seamless sing-alongs.
+- **User-Friendly Interface**: Features a clean, responsive design for easy navigation and an engaging user experience.
+
+This project highlights the innovative combination of music playback with synchronized lyrics, offering a unique way to enjoy your favorite tracks.
+
+![Sync Lyric Music Player Web App](/assets/img/MusicPlayer.gif)
 
 
 To know more about my projects:
